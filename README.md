@@ -1,2 +1,2 @@
 # parser
-List of abiturients parser for unission
+List of applicants parser for unission
